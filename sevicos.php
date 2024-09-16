@@ -10,7 +10,7 @@ if((!isset($_SESSION['email']) == true) and (!isset($_SESSION['password']) == tr
 }
 $logado = $_SESSION['email']
 
-//TESTES
+//TESTE
 ?>
 
 
